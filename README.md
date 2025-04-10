@@ -1,1 +1,1 @@
-In this project I have loaded the cvs file using pandas dataframe and cleansed the data by dropping the duplicates,changing column names, changing data type and finally saved the updated csv file with neccessary changes.
+In this project I have loaded the csv file using pandas dataframe and cleansed the data by dropping the duplicates,changing column names, changing data type and finally saved the updated csv file with neccessary changes.
